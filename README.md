@@ -5,8 +5,8 @@
 <p>
 <h2> Autores:</h2>
 <ul>
-    <li>Leoanrdo Ulloa Ferrer C212 ()</li>
-    <li>Toni Cadahaía Poveda C212 ()</li>
+    <li>Leoanrdo Ulloa Ferrer C212 (<a href = "https://github.com/Leo00010011">Leo00010011</a>)</li>
+    <li>Toni Cadahaía Poveda C212 (<a href = "https://github.com/tonycp">tonycp</a>)</li>
 </ul>
                   <hr>
                   <p style="margin-left: 40px">
