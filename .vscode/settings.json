@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "stdio.h": "c",
+        "bit": "c",
+        "algorithm": "c",
+        "istream": "c",
+        "limits": "c",
+        "streambuf": "c",
+        "stdbool.h": "c",
+        "stddef.h": "c",
+        "structures.h": "c",
+        "math.h": "c",
+        "errno.h": "c",
+        "dirent.h": "c",
+        "http_tools.h": "c"
+    }
+}
